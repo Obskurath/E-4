@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/home/ghost-monkey/Net/IS262E15Ejercicio04/src/WebApp/WebApp.csproj": {}
+    "C:\\Users\\Xeno\\Documents\\E-4\\IS262E15Ejercicio04\\src\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "/home/ghost-monkey/Net/IS262E15Ejercicio04/src/WebApp/WebApp.csproj": {
+    "C:\\Users\\Xeno\\Documents\\E-4\\IS262E15Ejercicio04\\src\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ghost-monkey/Net/IS262E15Ejercicio04/src/WebApp/WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Xeno\\Documents\\E-4\\IS262E15Ejercicio04\\src\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "/home/ghost-monkey/Net/IS262E15Ejercicio04/src/WebApp/WebApp.csproj",
-        "packagesPath": "/home/ghost-monkey/.nuget/packages/",
-        "outputPath": "/home/ghost-monkey/Net/IS262E15Ejercicio04/src/WebApp/obj/",
+        "projectPath": "C:\\Users\\Xeno\\Documents\\E-4\\IS262E15Ejercicio04\\src\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\Xeno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Xeno\\Documents\\E-4\\IS262E15Ejercicio04\\src\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ghost-monkey/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Xeno\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
-          "/usr/lib/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
